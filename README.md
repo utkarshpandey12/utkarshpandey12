@@ -2,7 +2,7 @@
 
 ![Design preview for Introduction](./design/images.jpeg)
 
-Python developer with experience in micro-services development.Experience in working with developing small fragments of code which can be stitched together and gets integrated to create the big picture.Along with this I have also contributed in the field of ed-tech as a content developer and still learning...
+**Python developer with experience in micro-services development.Experience in working with developing small fragments of code which can be stitched together and gets integrated to create the big picture.Along with this I have also contributed in the field of ed-tech as a content developer and still learning...**
 
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://utkarshpandey.pythonanywhere.com/)
