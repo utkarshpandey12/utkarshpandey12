@@ -1,6 +1,6 @@
 # About me
 
-![Design preview for Introduction](./design/header-pattern.png)
+![Design preview for Introduction](./design/images.jpeg)
 
 Currently learning web development, I like to get informed about the best practices to make robust and minimalistic applications. I spent some time to focus on algorythms and fundamentals those last months.
 
