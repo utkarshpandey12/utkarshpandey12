@@ -25,6 +25,6 @@ Feel free to navigate around my projects !
 ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Mostusedlanguage](https://github-readme-stats.vercel.app/api/top-langs/?username={utkarshpandey12})
+![Mostusedlanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpandey12)
 
 
