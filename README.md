@@ -25,6 +25,9 @@ Feel free to navigate around my projects !
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+
+
 ![Mostusedlanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpandey12)
 
 
