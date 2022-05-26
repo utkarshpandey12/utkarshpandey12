@@ -29,6 +29,6 @@
 
 
 
-![Mostusedlanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpandey12)
+![stats](https://github-readme-stats.vercel.app/api?username=utkarshpandey12)
 
 
